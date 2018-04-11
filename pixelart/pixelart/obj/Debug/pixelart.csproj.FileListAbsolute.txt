@@ -1,0 +1,9 @@
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\bin\Debug\pixelart.exe.config
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\bin\Debug\pixelart.exe
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\bin\Debug\pixelart.pdb
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\obj\Debug\pixelart.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\obj\Debug\pixelart.Form1.resources
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\obj\Debug\pixelart.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\obj\Debug\pixelart.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\obj\Debug\pixelart.exe
+c:\users\brandon\documents\visual studio 2015\Projects\pixelart\pixelart\obj\Debug\pixelart.pdb
